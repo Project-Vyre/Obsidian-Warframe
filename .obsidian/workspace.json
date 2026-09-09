@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "68d81f2a513e3196",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e59d43f007dda0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec303ab8fb15b3f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4ca7880c8658f3f0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roots/Branches/Foundation Mods.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Foundation Mods"
+            }
+          },
+          {
+            "id": "0c2693aa4e468ecd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7c2ad8a486215c00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5c00334d2eea2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe9d003574873626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb4bb2abeea4465",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45cb9fb56f175aa0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Foundation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3627377f0a61e8f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92191c9b2be7c5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "01273b821b05d366",
+        "type": "tabs",
+        "dimension": 66.66666666666667,
+        "children": [
+          {
+            "id": "e905c37f38082fa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documents/Arsenal/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b11095519299cf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documents/Arsenal/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "64a49d21f6c9fe18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97cd2d57c5d3531b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "af5deb621d0d1168",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documents/Arsenal/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0ea8b75947f1608b",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "5e9123fb4956e676",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c2ad8a486215c00",
+  "lastOpenFiles": [
+    "Documents/Mods/Melee/Blood Rush.md",
+    "Documents/Mods/Melee/Condition Overload.md",
+    "Roots/Branches/Foundation Mods.md",
+    "Roots/Mods.md",
+    "README.md",
+    "Documents/Mods/Melee/Galvanized/Galvanized Steel.md",
+    "Documents/Mods/Melee/Galvanized/Galvanized Elementalist.md",
+    "Documents/Mods/Melee/Galvanized",
+    "Documents/Mods/Secondary/Primed/Primed Target Cracker.md",
+    "Documents/Mods/Secondary/Primed/Primed Pistol Gambit.md",
+    "Documents/Mods/Secondary/Primed/Primed Heated Charge.md",
+    "Documents/Mods/Secondary/Primed/Primed Convulsion.md",
+    "Documents/Mods/Primary/Foundation/Blunderbuss.md",
+    "Documents/Arsenal/Requiem/Coda/Primary/Coda Bassocyst.md",
+    "Documents/Arcanes/Warframe Arcanes/Arcane Universal Fallout.md",
+    "Documents/Arcanes/Warframe Arcanes/Molt Augmented.md",
+    "Roots/Warframe Arcanes.md",
+    "Roots/Damage.md",
+    "Roots/Status Effects.md",
+    "Documents/Damage/Special/True Damage.md",
+    "Documents/Damage/Special/Void.md",
+    "Documents/Damage/Special/Tau.md",
+    "Documents/Mods/Primary/Target Acquired.md",
+    "Documents/Mods/Archgun/Primed/Primed Rubedo Lined Barrel.md",
+    "Documents/Mods/Melee/Primed/Primed Pressure Point.md",
+    "Documents/Mods/Secondary/Foundation/Hornet Strike.md",
+    "Documents/Mods/Melee/Primed",
+    "Documents/Mods/Primary/Galvanized/Galvanized Savvy.md",
+    "Documents/Mods/Secondary/Untitled",
+    "Documents/Mods/Archgun/Primed",
+    "Documents/Mods/Archgun/60 60 Mods",
+    "Documents/Mods/Archgun",
+    "Documents/Damage/Special",
+    "Documents/Mods/Melee/Elemental",
+    "Documents/Mods/Secondary/Elemental",
+    "Documents/Mods/Primary/Elemental",
+    "Tier Lists/Canvas Weapon Tier Lists/Coda Weapon Tier List.canvas",
+    "Tier Lists/Canvas Weapon Tier Lists/Kuva Weapon Tier List.canvas",
+    "Tier Lists/Canvas Weapon Tier Lists/Innate Incarnon Weapon Tier List.canvas",
+    "Tier Lists/Canvas Weapon Tier Lists/Incarnon Genesis Tier List.canvas",
+    "Tier Lists/Canvas Weapon Tier Lists/Tenet Weapon Tier List.canvas",
+    "Assets/Innodem.png",
+    "Assets/Ruvox.png",
+    "Assets/Praedos.png",
+    "Assets/Thalys.png",
+    "Assets/Phenmor.png",
+    "Assets/Laetum.png",
+    "Assets/Onos.png",
+    "Untitled.canvas",
+    "Assets/SkanaIncarnonGenesis.png",
+    "Assets/SibearIncarnonGenesis.png",
+    "Assets/OkinaIncarnonGenesis.png"
+  ]
+}

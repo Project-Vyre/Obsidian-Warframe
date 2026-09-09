@@ -1,0 +1,6 @@
+---
+tags:
+  - Primary
+links:
+  - "[[Kuva]]"
+---

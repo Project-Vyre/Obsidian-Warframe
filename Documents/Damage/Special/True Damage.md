@@ -1,0 +1,1 @@
+Completely Ignores Armor's damage reduction.

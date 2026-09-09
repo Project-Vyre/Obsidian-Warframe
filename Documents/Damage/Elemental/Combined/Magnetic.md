@@ -1,0 +1,4 @@
+---
+links:
+  - "[[Status Effects]]"
+---

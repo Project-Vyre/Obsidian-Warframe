@@ -1,0 +1,1 @@
+The term I use for builds intended to apply as many unique status effects as possible.

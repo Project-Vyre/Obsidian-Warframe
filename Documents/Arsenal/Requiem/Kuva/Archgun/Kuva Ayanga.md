@@ -1,0 +1,6 @@
+---
+tags:
+  - "#Archgun"
+links:
+  - "[[Kuva]]"
+---
