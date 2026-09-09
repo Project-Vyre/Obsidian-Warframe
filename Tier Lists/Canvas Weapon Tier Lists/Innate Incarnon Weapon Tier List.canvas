@@ -3,14 +3,14 @@
 		{"id":"077910b0707bad82","type":"group","x":-360,"y":-20,"width":1840,"height":1060,"color":"1","label":"S"},
 		{"id":"77df9ca0f24bdce3","type":"group","x":-360,"y":1100,"width":1840,"height":520,"color":"2","label":"A"},
 		{"id":"5dc057559322ed49","x":-360,"y":1680,"width":1840,"height":520,"color":"3","type":"group","label":"B"},
-		{"id":"f8651fde707f10f3","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Melee/Praedos.md","x":-300,"y":1160,"width":400,"height":400},
-		{"id":"b350c931cb8e5aa0","x":-300,"y":1740,"width":400,"height":400,"type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Melee/Innodem.md"},
-		{"id":"dce904b93f7137e4","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Primary/Felarx.md","x":-300,"y":40,"width":400,"height":430},
-		{"id":"17110f75e6826ce8","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Primary/Phenmor.md","x":140,"y":40,"width":400,"height":430},
-		{"id":"340468ee8491cafe","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Secondary/Laetum.md","x":580,"y":40,"width":400,"height":430},
-		{"id":"8d1b44cae4c4c118","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Melee/Ruvox.md","x":1020,"y":40,"width":400,"height":430},
-		{"id":"9c965d256723fa0e","x":140,"y":520,"width":400,"height":460,"type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Melee/Thalys.md"},
-		{"id":"45c29ede3a754d98","type":"file","file":"Documents/Arsenal/Incarnon/Innate Incarnon/Secondary/Onos.md","x":-300,"y":520,"width":400,"height":460}
+		{"id":"f8651fde707f10f3","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Melee/Praedos.md","x":-300,"y":1160,"width":400,"height":400},
+		{"id":"b350c931cb8e5aa0","x":-300,"y":1740,"width":400,"height":400,"type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Melee/Innodem.md"},
+		{"id":"dce904b93f7137e4","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Primary/Felarx.md","x":-300,"y":40,"width":400,"height":430},
+		{"id":"17110f75e6826ce8","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Primary/Phenmor.md","x":140,"y":40,"width":400,"height":430},
+		{"id":"340468ee8491cafe","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Secondary/Laetum.md","x":580,"y":40,"width":400,"height":430},
+		{"id":"8d1b44cae4c4c118","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Melee/Ruvox.md","x":1020,"y":40,"width":400,"height":430},
+		{"id":"9c965d256723fa0e","x":140,"y":520,"width":400,"height":460,"type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Melee/Thalys.md"},
+		{"id":"45c29ede3a754d98","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Secondary/Onos.md","x":-300,"y":520,"width":400,"height":460}
 	],
 	"edges":[]
 }

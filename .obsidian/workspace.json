@@ -55,10 +55,42 @@
             "id": "7c2ad8a486215c00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Roots/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "69cf3b7b524e939a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roots/Mods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mods"
+            }
+          },
+          {
+            "id": "8c98f481d5bf3f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roots/Damage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Damage"
             }
           }
         ],
@@ -225,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Roots/Weapons.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -247,13 +281,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c2ad8a486215c00",
+  "active": "3cb4bb2abeea4465",
   "lastOpenFiles": [
+    "Documents/Weapons/Standard",
+    "Roots/Mods.md",
+    "Roots/Weapons.md",
+    "Roots/Damage.md",
+    "Documents/Damage/Special/True Damage.md",
+    "README.md",
+    "Roots/Tier Lists.md",
+    "Roots/Warframes.md",
+    "Roots/Branches/Warframe Arcanes.md",
+    "Documents/Warframes",
+    "Documents/Weapons/Prime",
     "Documents/Mods/Melee/Blood Rush.md",
     "Documents/Mods/Melee/Condition Overload.md",
     "Roots/Branches/Foundation Mods.md",
-    "Roots/Mods.md",
-    "README.md",
     "Documents/Mods/Melee/Galvanized/Galvanized Steel.md",
     "Documents/Mods/Melee/Galvanized/Galvanized Elementalist.md",
     "Documents/Mods/Melee/Galvanized",
@@ -262,29 +305,20 @@
     "Documents/Mods/Secondary/Primed/Primed Heated Charge.md",
     "Documents/Mods/Secondary/Primed/Primed Convulsion.md",
     "Documents/Mods/Primary/Foundation/Blunderbuss.md",
-    "Documents/Arsenal/Requiem/Coda/Primary/Coda Bassocyst.md",
+    "Documents/Weapons/Requiem/Coda/Primary/Coda Bassocyst.md",
     "Documents/Arcanes/Warframe Arcanes/Arcane Universal Fallout.md",
     "Documents/Arcanes/Warframe Arcanes/Molt Augmented.md",
-    "Roots/Warframe Arcanes.md",
-    "Roots/Damage.md",
     "Roots/Status Effects.md",
-    "Documents/Damage/Special/True Damage.md",
     "Documents/Damage/Special/Void.md",
     "Documents/Damage/Special/Tau.md",
     "Documents/Mods/Primary/Target Acquired.md",
-    "Documents/Mods/Archgun/Primed/Primed Rubedo Lined Barrel.md",
-    "Documents/Mods/Melee/Primed/Primed Pressure Point.md",
-    "Documents/Mods/Secondary/Foundation/Hornet Strike.md",
     "Documents/Mods/Melee/Primed",
-    "Documents/Mods/Primary/Galvanized/Galvanized Savvy.md",
     "Documents/Mods/Secondary/Untitled",
     "Documents/Mods/Archgun/Primed",
     "Documents/Mods/Archgun/60 60 Mods",
     "Documents/Mods/Archgun",
     "Documents/Damage/Special",
     "Documents/Mods/Melee/Elemental",
-    "Documents/Mods/Secondary/Elemental",
-    "Documents/Mods/Primary/Elemental",
     "Tier Lists/Canvas Weapon Tier Lists/Coda Weapon Tier List.canvas",
     "Tier Lists/Canvas Weapon Tier Lists/Kuva Weapon Tier List.canvas",
     "Tier Lists/Canvas Weapon Tier Lists/Innate Incarnon Weapon Tier List.canvas",
