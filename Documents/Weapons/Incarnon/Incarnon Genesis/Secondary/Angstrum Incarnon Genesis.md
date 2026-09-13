@@ -1,4 +1,5 @@
 ---
+image: "[[AngstrumIncarnonGenesis.png]]"
 tags:
   - Secondary
 links:

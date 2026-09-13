@@ -5,4 +5,5 @@ tags:
 links:
   - "[[Primed Mods]]"
 ---
+# Rank 10
 - +165% Electricity

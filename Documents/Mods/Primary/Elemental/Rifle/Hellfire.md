@@ -2,6 +2,6 @@
 tags:
   - Primary
   - Rifle
-links:
-  - "[[Primed Mods]]"
 ---
+# Rank 5
+- +90% Heat

@@ -1,7 +1,11 @@
+---
+dg-publish:
+dg-home:
+---
 This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing.
 
 > [!NOTICE] 
-> For the best viewing experience, it is recommended to open this in Obsidian instead of browsing through it manually file by file. Download it from here for your respective operating system: https://obsidian.md
+> For the best viewing experience if you are not on the Digital Garden version of the Obsidian Vault, it is recommended to open this in Obsidian instead of browsing through it manually file by file. Download it from here for your respective operating system: https://obsidian.md
 # Index
 - [[Tier Lists]]
 - [[Warframes]]

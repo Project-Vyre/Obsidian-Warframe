@@ -15,3 +15,14 @@ Alternate Fire swarms enemies with mites, inflicting them with Impact and Magnet
 - [[Blast]]
 - [[Magnetic]] (Alternate Fire only, unless if set as the Progenitor damage via Elemental Vice.)
 - [[Radiation]]
+
+---
+
+# Builds
+
+### Wubwub
+- Arcane: [[Primary Debilitate]]
+
+| [[Semi-Shotgun Cannonade]] | [[Frigid Blast]]  | [[Toxic Barrage]]      | [[Galvanized Savvy]] |
+| -------------------------- | ----------------- | ---------------------- | -------------------- |
+| [[Critical Deceleration]]  | [[Primed Ravage]] | [[Primed Point Blank]] | [[Galvanized Hell]]  |

@@ -1,13 +1,15 @@
 Mods that make up the foundation of the majority of builds.
-# Damage
-Mods that increase your damage.
-## Primary
+
 > [!NOTICE]
 > Primary mods encompass the following weapon types:
 > - Rifle
 >     - Sniper
 >     - Bow
 > - Shotgun
+
+# Damage
+Mods that increase your damage.
+## Primary
 
 ### Rifle
 - [[Serration]]
@@ -16,7 +18,7 @@ Mods that increase your damage.
 #### Sniper
 - [[Serration]]
 - [[Semi-Rifle Cannonade]]
-Honorable mention: [[Target Acquired]]
+- [[Target Acquired|Target Acquired (Honorable mention)]]
 
 ##### Bow
 > [!FAIL] Disclaimer
@@ -38,7 +40,7 @@ Bows can't use Semi-Rifle Cannonade as they all use a charge trigger. This means
 ## Archgun
 - [[Primed Rubedo Lined Barrel|Primed Rubedo-Lined Barrel]]
 
-# Critical Chance & Damage
+# Critical Chance & Critical Damage
 Mods that increase your Critical Chance or Critical Damage.
 
 ## Primary
@@ -49,6 +51,7 @@ Mods that increase your Critical Chance or Critical Damage.
     - [[Critical Delay]]
 - Critical Damage
     - [[Vital Sense]]
+    - [[Hammer Shot]]
 
 #### Sniper
 - Critical Chance
@@ -56,6 +59,7 @@ Mods that increase your Critical Chance or Critical Damage.
     - [[Critical Delay]]
 - Critical Damage
     - [[Vital Sense]]
+    - [[Hammer Shot]]
 
 ##### Bow
 - Critical Chance
@@ -63,6 +67,7 @@ Mods that increase your Critical Chance or Critical Damage.
     - [[Critical Delay]]
 - Critical Damage
     - [[Vital Sense]]
+    - [[Hammer Shot]]
 
 ### Shotgun
 - Critical Chance
@@ -78,9 +83,40 @@ Mods that increase your Critical Chance or Critical Damage.
 ## Melee
 - [[Galvanized Steel]] (Critical Chance & Critical Damage)
     - True Steel (Critical Chance)
-- [[Blood Rush]]
+- [[Blood Rush]] (Critical Chance)
 
 ## Archgun
 
 # Multishot
 Mods that increase your Multishot.
+
+## Primary
+
+### Rifle
+- [[Galvanized Chamber]]
+    - Split Chamber
+- Vigilante Armaments
+
+#### Sniper
+- [[Galvanized Chamber]]
+    - Split Chamber
+- Vigilante Armaments
+
+##### Bow
+- [[Galvanized Chamber]]
+    - Split Chamber
+- Split Flights
+- Vigilante Armaments
+
+### Shotgun
+- [[Galvanized Hell]]
+    - Hell's Chamber
+## Secondary
+- [[Galvanized Diffusion]]
+    - Barrel Diffusion
+- [[Lethal Torrent]]
+# Status Chance
+
+## Melee
+- [[Galvanized Elementalist]] (Status Chance & Status Damage)
+- [[Weeping Wounds]]
