@@ -5,5 +5,6 @@ tags:
 links:
   - "[[Roots/Incarnon Genesis]]"
   - "[[Incarnon Genesis Secondary]]"
+dg-publish: true
 ---
 ![[AngstrumIncarnonGenesis.png]]

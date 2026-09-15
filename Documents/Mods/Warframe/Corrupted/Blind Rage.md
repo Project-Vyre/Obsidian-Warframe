@@ -3,6 +3,7 @@ tags:
   - Warframe
 links:
   - "[[Corrupted Mods]]"
+dg-publish: true
 ---
 # Rank 10
 - +99% Ability Strength

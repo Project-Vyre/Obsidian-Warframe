@@ -3,6 +3,7 @@ tags:
   - Melee
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 - +80% **Status Damage**
 - On Melee Kill:

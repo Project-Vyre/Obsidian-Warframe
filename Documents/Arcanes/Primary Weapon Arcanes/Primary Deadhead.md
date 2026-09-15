@@ -3,6 +3,7 @@ tags:
   - Primary
 links:
   - "[[Primary Weapon Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 On headshot Kill:

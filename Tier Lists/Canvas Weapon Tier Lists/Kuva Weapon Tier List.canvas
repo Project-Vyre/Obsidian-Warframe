@@ -35,5 +35,9 @@
 		{"id":"32c29a2213776815","type":"file","file":"Documents/Weapons/Requiem/Kuva/Melee/Kuva Ghoulsaw.md","x":920,"y":3720,"width":400,"height":400},
 		{"id":"52b09b380a7de220","type":"text","text":"# Card Size Reference\nThis is the default card size reference. Ctrl + C me around to ensure the cards are almost uniformly the same size and resize them to this if needed.","x":-26,"y":-826,"width":560,"height":860}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
 }

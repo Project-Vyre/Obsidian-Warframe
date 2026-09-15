@@ -4,6 +4,7 @@ tags:
   - Bow
 links:
   - "[[Kuva]]"
+dg-publish: true
 ---
 > A bow that launches arrows with explosive payloads. Used to be good prior to AoE ammo nerfs. Current ranking is highly dependent on if you use [[Primary Compression]] combined with Primed Sniper Ammo Mutation.
 > 

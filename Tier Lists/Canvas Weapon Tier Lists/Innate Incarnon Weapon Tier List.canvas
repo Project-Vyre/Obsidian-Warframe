@@ -12,5 +12,9 @@
 		{"id":"9c965d256723fa0e","x":140,"y":520,"width":400,"height":460,"type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Melee/Thalys.md"},
 		{"id":"45c29ede3a754d98","type":"file","file":"Documents/Weapons/Incarnon/Innate Incarnon/Secondary/Onos.md","x":-300,"y":520,"width":400,"height":460}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
 }

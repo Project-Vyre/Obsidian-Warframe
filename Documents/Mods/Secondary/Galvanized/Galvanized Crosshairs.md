@@ -3,6 +3,7 @@ tags:
   - Secondary
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 On Headshot:
 - 120% Critical Chance for 12s.

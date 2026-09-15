@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Allows damage to bypass enemy Shields and deal damage directly to their Health over a short duration.
 # Associated Mods

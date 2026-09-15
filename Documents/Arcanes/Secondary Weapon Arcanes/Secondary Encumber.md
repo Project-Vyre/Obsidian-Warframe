@@ -3,6 +3,7 @@ tags:
   - Secondary
 links:
   - "[[Secondary Weapon Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 On Status Effect:

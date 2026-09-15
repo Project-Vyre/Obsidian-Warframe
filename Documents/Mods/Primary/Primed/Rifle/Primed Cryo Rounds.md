@@ -4,5 +4,6 @@ tags:
   - Rifle
 links:
   - "[[Primed Mods]]"
+dg-publish: true
 ---
 - +165% Cold

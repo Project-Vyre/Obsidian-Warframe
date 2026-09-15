@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > [!WARNING] Disclaimer
 > Specific Tenet weapons are not obtainable from Sisters of Parvos and must be obtained from Ergo Glast.
 > 

@@ -4,5 +4,6 @@ tags:
   - Heavy_Scythe
 links:
   - "[[Innate Incarnon]]"
+dg-publish: true
 ---
 ![[Thalys.png]]

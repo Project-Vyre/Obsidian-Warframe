@@ -3,6 +3,7 @@ tags:
   - Warframe
 links:
   - "[[Warframe Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 - On creating an object with abilities:

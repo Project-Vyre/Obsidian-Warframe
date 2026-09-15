@@ -19,5 +19,9 @@
 		{"id":"d2155b7578f61f0e","x":-680,"y":1640,"width":400,"height":400,"type":"file","file":"Documents/Weapons/Requiem/Coda/Secondary/Coda Tysis.md"},
 		{"id":"fe09093a527aa3bd","type":"file","file":"Documents/Weapons/Requiem/Coda/Melee/Coda Mire.md","x":1540,"y":960,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{"dg-publish":true}
+	}
 }

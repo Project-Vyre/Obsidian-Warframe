@@ -1,3 +1,8 @@
+---
+dg-publish: true
+links:
+  - "[[Home]]"
+---
 Complete with detailed notes and explanations.
 
 - [[Coda Weapon Tier List.canvas]]

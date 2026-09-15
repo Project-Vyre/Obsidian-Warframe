@@ -4,6 +4,7 @@ tags:
   - Shotgun
 links:
   - "[[Coda]]"
+dg-publish: true
 ---
 > Superior replacement to the Tenet Arca Plasmor. Exceeds Felarx's Incarnon form in burst damage.
 

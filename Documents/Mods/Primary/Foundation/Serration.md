@@ -6,5 +6,6 @@ tags:
   - Bow
 links:
   - "[[Foundation Mods]]"
+dg-publish: true
 ---
 +165% Damage

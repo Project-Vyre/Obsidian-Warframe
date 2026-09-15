@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Electricity chains between nearby enemies, temporarily aplying a stun effect and dealing damage over time.
 # Associated Mods

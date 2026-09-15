@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Welcome to the Incarnon Index root.
 
 Here is the main difference between innate Incarnon weapons and Incarnon Genesis weapons as shown below in the table.

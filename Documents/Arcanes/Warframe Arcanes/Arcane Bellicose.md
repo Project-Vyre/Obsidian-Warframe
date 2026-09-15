@@ -3,6 +3,7 @@ tags:
   - Warframe
 links:
   - "[[Warframe Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 - Gain 6% Ability Strength for every 250 Max Health up to 72%.

@@ -3,6 +3,7 @@ tags:
   - Melee
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 # Rank 10
 - 110% Critical Chance

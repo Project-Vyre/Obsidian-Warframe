@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Mods that make up the foundation of the majority of builds.
 
 > [!NOTICE]

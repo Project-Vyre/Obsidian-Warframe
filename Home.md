@@ -1,6 +1,6 @@
 ---
-dg-publish:
-dg-home:
+dg-publish: true
+dg-home: true
 ---
 This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing.
 
@@ -10,8 +10,6 @@ This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as
 - [[Tier Lists]]
 - [[Warframes]]
 - [[Weapons]]
-    - [[Incarnon Weapon Index]]
-    - [[Requiem Weapon Index]]
 - [[Arcanes]]
 - [[Mods]]
 - [[Damage]]

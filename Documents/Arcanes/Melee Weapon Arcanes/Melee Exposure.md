@@ -3,6 +3,7 @@ tags:
   - Melee
 links:
   - "[[Melee Weapon Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 On Ability Cast: Gain 60% Corrosive Damage on Melee strikes for 25s. Stacks up to 240%.

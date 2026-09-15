@@ -3,6 +3,7 @@ tags:
   - Secondary
 links:
   - "[[Innate Incarnon]]"
+dg-publish: true
 ---
 
 ![[Onos.png]]

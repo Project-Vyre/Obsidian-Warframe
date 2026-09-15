@@ -3,6 +3,7 @@ tags:
   - Warframe
 links:
   - "[[Arcanes]]"
+dg-publish: true
 ---
 # Legendary / Platinum
 - [[Arcane Hot Shot]]: Critical Chance

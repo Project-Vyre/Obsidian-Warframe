@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Everything related to Status Effects.
 # Physical
 - [[Impact]]

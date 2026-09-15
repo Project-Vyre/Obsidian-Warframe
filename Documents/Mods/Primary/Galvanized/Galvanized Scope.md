@@ -4,6 +4,7 @@ tags:
   - Rifle
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 - On Headshot:
     - +120% Critical Chance when Aiming for 12s.

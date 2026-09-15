@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - 4 Evolution nodes or 3 if not including the Incarnon transformation.
 - A prerequisite weapon is required in addition to materials exclusively obtained from Duviri.
   This includes:

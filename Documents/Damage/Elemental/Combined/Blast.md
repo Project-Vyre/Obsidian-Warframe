@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Created by combining [[Heat]] and [[Cold]] damage.
 # Status Effect

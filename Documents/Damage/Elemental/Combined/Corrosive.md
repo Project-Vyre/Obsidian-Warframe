@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Temporarily removes up to 80% of the target's Armor value with multiple stacks.
 

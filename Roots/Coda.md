@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 > [!WARNING] Acquisition Requirements
 > As Coda weapons are not obtained from the Foundry, they require the following to obtain and use:

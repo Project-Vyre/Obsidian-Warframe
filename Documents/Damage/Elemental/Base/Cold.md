@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 - Causes enemies to move and attack slower for each stack and will completely freeze for 3 seconds upon reaching 10 stacks.
 - Increases Critical Damage by 10% on the first stack, with an additional 5% per stack. **This effect doubles when frozen.**

@@ -3,6 +3,7 @@ tags:
   - Melee
 links:
   - "[[Status Overload]]"
+dg-publish: true
 ---
 # Rank 5
 +80% Melee Damage per Status Type affecting the target.

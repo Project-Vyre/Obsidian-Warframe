@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Causes the target to flail backwards temporarily, with repeated stacks increasing the size and duration of the stagger.
 

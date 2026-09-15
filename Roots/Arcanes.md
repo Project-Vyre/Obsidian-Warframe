@@ -1,4 +1,8 @@
-# Weapon Arcanes
+---
+dg-publish: true
+links:
+  - "[[Home]]"
+---
 - [[Primary Weapon Arcanes]]
 	- [[Shotgun Arcanes]]
 	- [[Bow Arcanes]]

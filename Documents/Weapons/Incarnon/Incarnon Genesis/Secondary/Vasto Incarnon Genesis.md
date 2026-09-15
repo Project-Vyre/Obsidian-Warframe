@@ -4,6 +4,7 @@ tags:
 links:
   - "[[Roots/Incarnon Genesis]]"
   - "[[Incarnon Genesis Secondary]]"
+dg-publish: true
 ---
 ![[VastoIncarnonGenesis.png]]
 > Strongest single target burst DPS in the game.

@@ -4,6 +4,7 @@ tags:
   - Shotgun
 links:
   - "[[Innate Incarnon]]"
+dg-publish: true
 ---
 
 ![[Felarx.png]]

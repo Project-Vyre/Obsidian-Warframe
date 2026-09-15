@@ -4,6 +4,7 @@ tags:
   - Shotgun
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 - +30% Projectile Speed and +30% Beam Range.
 - On Kill:

@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Status Effects]]"
+dg-publish: true
 ---
 Creates a bullet attractor sphere on the target that attracts and concentrates further attacks.
 

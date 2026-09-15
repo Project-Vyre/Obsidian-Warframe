@@ -3,6 +3,7 @@ tags:
   - Warframe
 links:
   - "[[Warframe Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 Each Radiation Status Effect inflicted on enemies by Abilities gives a 6% chance to drop a Universal Orb on enemy death.

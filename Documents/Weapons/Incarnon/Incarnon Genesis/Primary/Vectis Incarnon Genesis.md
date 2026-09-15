@@ -5,6 +5,7 @@ tags:
 links:
   - "[[Roots/Incarnon Genesis]]"
   - "[[Incarnon Genesis Primary]]"
+dg-publish: true
 ---
 ![[VectisIncarnonGenesis.png]]
 > Crowned the new King of Snipers, followed by Coda Sporothrix.

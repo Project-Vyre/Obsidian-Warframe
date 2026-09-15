@@ -4,6 +4,7 @@ tags:
 links:
   - "[[Roots/Incarnon Genesis]]"
   - "[[Incarnon Genesis Secondary]]"
+dg-publish: true
 ---
 ![[BallisticaIncarnonGenesis.png]]
 > Let's just say Vasto Incarnon Genesis and Coda Bassocyst had a baby.

@@ -3,6 +3,7 @@ tags:
   - Primary
 links:
   - "[[Primary Weapon Arcanes]]"
+dg-publish: true
 ---
 # Rank 5
 If an enemy has 10 stacks of a combined Status Effect, inflicting the same Status Effect again has a 100% chance to inflict one of the base Status Effects it is composed of.

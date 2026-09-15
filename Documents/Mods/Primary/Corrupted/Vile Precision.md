@@ -4,6 +4,7 @@ tags:
   - Rifle
 links:
   - "[[Corrupted Mods]]"
+dg-publish: true
 ---
 # Rank 5
 - -90% Weapon Recoil

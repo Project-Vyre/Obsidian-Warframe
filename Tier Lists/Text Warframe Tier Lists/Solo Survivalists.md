@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Tier Lists]]
 # S
 For Warframes that are nearly impossible to die with in most situations **without** the use of Rolling Guard and Last Gasp.

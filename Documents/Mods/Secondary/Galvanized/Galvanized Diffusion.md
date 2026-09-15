@@ -3,6 +3,7 @@ tags:
   - Secondary
 links:
   - "[[Galvanized Mods]]"
+dg-publish: true
 ---
 - +110% Multishot
 - On Kill:
