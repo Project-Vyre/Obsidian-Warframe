@@ -5,7 +5,10 @@ links:
   - "[[Warframes]]"
 dg-publish: true
 ---
-Everything below is written with post-rework Banshee as of the Iceblade of Narin update.
+> The only thing that will save you is the vacuum of space.
+
+> [!NOTICE]
+> Everything below is written with post-rework Banshee as of the Iceblade of Narin update.
 # Abilities
 
 ## Passive
@@ -35,7 +38,7 @@ Post rework Banshee as of the Iceblade of Narin update, this ability now strips 
 
 - Can be used to push back Demolishers in Disruption missions for easy dispatching. I've personally pushed many Demolishers *and* Acolytes into the corner where they are immediately helpless. Push Force is **not** nullified by Demolishers.
 - Forced Impact Status Effect makes priority targets vulnerable to Mercy kills.
-- 
+
 ## Sonar (2)
 
 > [!QUOTE] In-game Tooltip
@@ -97,8 +100,9 @@ Arcanes:
 
 Mods:
 
-|                     | Growing Power | Primed Sure Footed |              |
+| Mods                |               |                    |              |
 | ------------------- | ------------- | ------------------ | ------------ |
+|                     | Growing Power | Primed Sure Footed |              |
 | Primed Continuity   | Resonance     | Equilibrium        | Primed Vigor |
 | Transient Fortitude | Sonic Siphon  | Rage               | Adaptation   |
 
