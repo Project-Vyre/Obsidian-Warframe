@@ -25,6 +25,9 @@ Put simply, Banshee's passive makes it so that enemies do **80% less damage at a
 Base stats:
 - Drain: 25
 - Range: 15m
+- Damage: Impact 250
+- Push Force: 5
+- Armor Reduction: 70%
 
 > [!QUOTE] In-game Tooltip
 > Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate attackers and reduce their Armor.

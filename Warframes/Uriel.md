@@ -3,9 +3,13 @@ tags:
   - Warframe
 links:
   - "[[Warframes]]"
-dg-publish: false
+dg-publish: true
 ---
-Everything written below is consistent with the current update, Iceblade of Narin.
+> [!NOTICE]
+> Everything written below is consistent with the current update, Iceblade of Narin.
+> This page is authored by MrGodofWar7
+
+
 # Abilities
 
 ## Passive

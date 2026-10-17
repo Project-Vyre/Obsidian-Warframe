@@ -24,9 +24,9 @@ Arcanes:
 - Molt Augmented
 - Arcane Camisado
 
-Mods:
 
-|                     | Energy Siphon     | Power Drift     |               |
+| Mods                |                   |                 |               |
 | ------------------- | ----------------- | --------------- | ------------- |
+|                     | Energy Siphon     | Power Drift     |               |
 | Catalyzing Shields  | Umbral Intensify  | Umbral Vitality | Umbral Fiber  |
 | Transient Fortitude | Primed Continuity | Constitution    | Augur Secrets |
