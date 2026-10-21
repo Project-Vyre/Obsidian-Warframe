@@ -6,6 +6,7 @@
       {
         "id": "28e59d43f007dda0",
         "type": "tabs",
+        "dimension": 49.37578027465668,
         "children": [
           {
             "id": "4ca7880c8658f3f0",
@@ -70,24 +71,43 @@
               "icon": "lucide-file",
               "title": "Banshee"
             }
+          },
+          {
+            "id": "159dd5ef59b11c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "71ee215aea3b948e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roots/Tier Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tier Lists"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "84b97c1f71813e9d",
         "type": "tabs",
+        "dimension": 50.62421972534332,
         "children": [
-          {
-            "id": "7eb7eddd8a7a767d",
-            "type": "leaf",
-            "state": {
-              "type": "digital-garden-publication-center",
-              "state": {},
-              "icon": "book-up",
-              "title": "Publication Center"
-            }
-          },
           {
             "id": "40e86ddde0a2b186",
             "type": "leaf",
@@ -108,12 +128,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warframes/Uriel.md",
+                "file": "Documents/Tier Lists/Text Warframe Tier Lists/Incarnon Genesis Tier List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uriel"
+              "title": "Incarnon Genesis Tier List"
+            }
+          },
+          {
+            "id": "e582d3905ab7e87d",
+            "type": "leaf",
+            "state": {
+              "type": "digital-garden-publication-center",
+              "state": {},
+              "icon": "book-up",
+              "title": "Publication Center"
             }
           },
           {
@@ -130,7 +160,8 @@
               "title": "Nova"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sybar",
+                "query": "tier list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +219,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md",
+                "file": "Roots/Tier Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +325,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Weapons/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md"
+                "file": "Roots/Tier Lists.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -318,8 +350,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "64fa78784f98ed58",
+  "active": "71ee215aea3b948e",
   "lastOpenFiles": [
+    "Home.md",
+    "Documents/Priority Spliced Traits.md",
+    "Weapons/Incarnon/Incarnon Genesis/Melee/Destreza Incarnon Genesis.md",
+    "Warframes/Nidus.md",
+    "Roots/Tier Lists.md",
+    "Documents/Tier Lists/Text Warframe Tier Lists/Incarnon Genesis Tier List.md",
+    "Documents/Tier Lists/Text Warframe Tier Lists/Innate Incarnon Weapon Tier List.md",
+    "Documents/Tier Lists/Text Warframe Tier Lists/Solo Survivalists.md",
+    "Documents/Tier Lists/Canvas Weapon Tier Lists/Innate Incarnon Weapon Tier List.canvas",
+    "Documents/Tier Lists/Canvas Weapon Tier Lists/Incarnon Genesis Tier List.canvas",
+    "Documents/Tier Lists/Canvas Weapon Tier Lists/Coda Weapon Tier List.canvas",
+    "Documents/Addressing Mod Drain.md",
+    "Warframes/Uriel.md",
     "Warframes/Atlas.md",
     "Warframes/Citrine.md",
     "Warframes/Cyte-09.md",
@@ -328,8 +373,6 @@
     "Warframes/Baruuk.md",
     "Warframes/Banshee.md",
     "Warframes/Oberon.md",
-    "Weapons/Incarnon/Incarnon Genesis/Melee/Destreza Incarnon Genesis.md",
-    "Warframes/Nidus.md",
     "Arcanes/Melee Weapon Arcanes/Melee Doughty.md",
     "Arcanes/Melee Weapon Arcanes/Melee Exposure.md",
     "Weapons/Incarnon/Incarnon Genesis/Primary/Sybaris Incarnon Genesis.md",
@@ -338,16 +381,8 @@
     "Weapons/Incarnon/Incarnon Genesis/Melee/Ack and Brunt Incarnon Genesis.md",
     "Weapons/Incarnon/Incarnon Genesis/Primary/Boltor Incarnon Genesis.md",
     "Weapons/Incarnon/Incarnon Genesis/Primary/Boar Incarnon Genesis.md",
-    "Weapons/Incarnon/Incarnon Genesis/Primary/Strun Incarnon Genesis.md",
-    "Mods/Warframe/Augments/Banshee/Resonance.md",
-    "Mods/Warframe/Augments/Nidus/Insatiable.md",
     "Mods/Warframe/Augments/Banshee",
     "Mods/Warframe/Augments/Nidus",
-    "Warframes/Nova.md",
-    "Templates/Warframe Template.md",
-    "Warframes/Equinox.md",
-    "Mods/Warframe/Augments/Nidus/Parasitic Vitality.md",
-    "Documents/Addressing Mod Drain.md",
     "Mods/Warframe/Augments",
     "Documents/Mod Card Components.canvas",
     "Roots/Branches/Variants",
@@ -360,13 +395,10 @@
     "Assets/naramon_pol.svg",
     "Assets/madurai_pol.svg",
     "Assets/vazarin_pol.svg",
-    "Documents/Tier Lists/Canvas Weapon Tier Lists/Incarnon Genesis Tier List.canvas",
     "Assets/Ack&BruntIncarnonGenesis.png",
     "Assets/AngstrumIncarnonGenesis.png",
     "Documents/Tier Lists/Canvas Weapon Tier Lists/Tenet Weapon Tier List.canvas",
     "Documents/Tier Lists/Canvas Weapon Tier Lists/Kuva Weapon Tier List.canvas",
-    "Documents/Tier Lists/Canvas Weapon Tier Lists/Innate Incarnon Weapon Tier List.canvas",
-    "Documents/Tier Lists/Canvas Weapon Tier Lists/Coda Weapon Tier List.canvas",
     "Assets/PrimedCryoRoundsMod.png",
     "Assets/Innodem.png",
     "Assets/Ruvox.png",
